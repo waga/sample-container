@@ -1,2 +1,2 @@
 # sample-container
-Sample container implementation
+Sample container implementation using dependency injection
